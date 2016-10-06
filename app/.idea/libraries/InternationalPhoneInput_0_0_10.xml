@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="InternationalPhoneInput-0.0.10">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../duaui/build/intermediates/exploded-aar/com.lovearthstudio.android/InternationalPhoneInput/0.0.10/res" />
+      <root url="jar://$PROJECT_DIR$/../duaui/build/intermediates/exploded-aar/com.lovearthstudio.android/InternationalPhoneInput/0.0.10/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.lovearthstudio.android/InternationalPhoneInput/0.0.10/d21356fdda53d5b995d01393756108da98ae2e07/InternationalPhoneInput-0.0.10-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

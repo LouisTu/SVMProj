@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="duasdk-0.4.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../duaui/build/intermediates/exploded-aar/com.lovearthstudio.android/duasdk/0.4.3/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../duaui/build/intermediates/exploded-aar/com.lovearthstudio.android/duasdk/0.4.3/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.lovearthstudio.android/duasdk/0.4.3/5da36e08440120451d70940e6195f49401c05473/duasdk-0.4.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
